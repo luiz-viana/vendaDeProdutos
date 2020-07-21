@@ -1,0 +1,2 @@
+module estudoEnumExercicio2 {
+}
